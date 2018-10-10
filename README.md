@@ -1,17 +1,38 @@
 <link rel = "stylesheet" href = "style/intro.css">
 
+<link rel = "stylesheet" href = "https://www.w3schools.com/w3css/4/w3.css">
+
 <div markdown="1" class="page">
 
-<a href="https://surajdadral.github.io/ScriptCAD"><img src="images/logo.png" class="logo"></a>
-
-<div class="nav_bar" markdown="1">
-<div class="menu" markdown="1">
-
-* [Register Here](https://goo.gl/forms/YeDk8IqOeDLKQOtB2)
-* [FAQs](/FAQ.md)
-* [Terms & Conditions](/Terms.md)
-
+<div class="w3-bar w3-light-grey">
+<a href="https://greatdevelopers.github.io/ScriptCAD" class="w3-bar-item w3-button">Home</a>
+<a href="https://goo.gl/forms/YeDk8IqOeDLKQOtB2" class="w3-bar-item w3-button">Register Here</a>
+<div class="w3-dropdown-hover">
+<button class="w3-button">Menu</button>
+<div class="w3-dropdown-content w3-bar-block w3-card-4">
+<a href="https://goo.gl/forms/YeDk8IqOeDLKQOtB2" class="w3-bar-item w3-button">Register Here</a>
+<a href="https://groups.google.com/forum/#!forum/greatbim" class="w3-bar-item w3-button">Mailing List</a>
+<a href="https://greatdevelopers.github.io/ScriptCAD/Payment.html" class="w3-bar-item w3-button">Transaction Details</a>
+<a href="https://greatdevelopers.github.io/ScriptCAD/FAQ.html" class="w3-bar-item w3-button">FAQs</a>
+<a href="https://greatdevelopers.github.io/ScriptCAD/Terms.html" class="w3-bar-item w3-button">Terms & Conditions</a>
 </div>
+</div>
+
+<div class="w3-dropdown-hover">
+<button class="w3-button">Sessions</button>
+<div class="w3-dropdown-content w3-bar-block w3-card-4">
+<a href="https://greatdevelopers.github.io/ScriptCAD/Session0/Session0.html" class="w3-bar-item w3-button">Session-0</a>
+<a href="https://greatdevelopers.github.io/ScriptCAD/Bishop_Tutorial.html" class="w3-bar-item w3-button">Session-1</a>
+</div>
+</div>
+
+<div class="w3-dropdown-hover">
+<button class="w3-button">Feedback</button>
+<div class="w3-dropdown-content w3-bar-block w3-card-4">
+<a href="https://goo.gl/forms/ucznhnQxVDul4HYW2" class="w3-bar-item w3-button">Session-0</a>
+</div>
+</div>
+
 </div>
 
 <div markdown="1" class="First">
@@ -174,5 +195,7 @@ Other Students | Without Certificate|  Rs 3000 | + Rs 200 | 2 years | Rs 3200 | 
 
 
 </div>
+
+[Transaction Details](/Payment.md)
 
 </div>

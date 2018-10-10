@@ -1,5 +1,5 @@
 ---
-title : Terms & Conditions 
+Title : Payment notice
 ---
 
 <link rel = "stylesheet" href = "style/intro.css">
@@ -32,9 +32,23 @@ title : Terms & Conditions
 
 </div>
 
+#  Payment notice
 
-# Terms and Conditions
+* **Last date for Registration**: Sunday 12:00 PM (07-10-2018)
+* **Last date for fee deposit is**: Monday 12:00 PM (08-10-2018)
 
-1. All content of this website and course material are covered under CC BY-SA 3.0.
-1. Lifetime support refer to period of studentship of participants. Any educational course normally spans 4 years. So we will consider you a student for 4 years. Thus, lifetime support means a maximum of 4 years support to answer your queries. Though actual time span of support depends on type of modules/sessions you opted and your affiliation.
-1. The attendance is optional and you can attend lectures of your choice. But the payable fee depends on the course which you have opted.
+## Modes of Payment:
+1. **Offline**: To confirm your successful registration, pay fee at Office of Testing and Consultancy Cell (TCC) to Mr. Bhagwant Singh or Ms Kirandeep Kaur.
+1. **Online**: Bank transfer is possible. Details for bank transfer are given below.
+
+**Name of Account Holder**: Principal, Guru Nanak Dev Engg. College, Ludhiana
+
+**Name of Bank**: Panjab & Sind Bank, Guru Nanak Dev Engg. College, Ludhiana
+
+**Branch**: Gill, Ludhiana
+
+**Type of Account**: Saving Bank Account
+
+**Online Account No.**: 002110000 50652
+
+**IFC Code No.**: PSID0000021
